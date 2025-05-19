@@ -10,7 +10,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, ContextTypes, filters
 
 # Ton token (à garder secret !)
-BOT_TOKEN = 
+BOT_TOKEN = '7645422993:AAFkFkkXb3e0RqpZRdL1vuVQn7Incd6ssK8'
 
 # Commande /start
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -20,9 +20,19 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
 async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
     user_message = update.message.text.lower()
 
-    if "bonjour" in user_message:
+    salutations = [
+        "salut", "salut !", "coucou", "bonjour", "bonjour !", "bonsoir", "bonsoir !",
+        "hello", "hé", "hey", "hey !", "yo", "wesh", "allo", "allô", "salutations",
+        "ça va ?", "ça va", "comment ça va ?", "comment vas-tu ?", "comment allez-vous ?",
+        "ça roule ?", "quoi de neuf ?", "quoi de neuf", "bienvenue", "bienvenue !",
+        "démarrer", "commencer", "start", "hello chatbot", "bonjour chatbot",
+        "salut chatbot", "coucou chatbot", "j’ai une question", "je veux discuter",
+        "je veux parler", "est-ce que tu es là ?", "tu es là ?", "on peut parler ?",
+        "peux-tu m’aider ?", "aide-moi", "besoin d’aide", "help"
+    ]
+
+    if any(greeting in user_message for greeting in salutations):
         await update.message.reply_text(
-            "Comment je peux vous aider :\n"
             "(1) - Nom de l’équipe : Équipe SFR\n"
             "(2) - Les responsables\n"
             "(3) - Objectif de ce chatbot\n"
@@ -30,6 +40,7 @@ async def handle_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
             "(5) - Livrables à réaliser : PROJET UE\n"
             "(6) - Comment réaliser le projet SFR"
         )
+
     elif user_message == "1":
         await update.message.reply_text(
             "- Akarkab Maryam\n"
