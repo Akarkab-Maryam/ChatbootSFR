@@ -1,0 +1,184 @@
+{
+  "faq": [
+    {
+      "question": "Quel est le nom de l'équipe ?",
+      "réponse": "Équipe SFR"
+    },
+    {
+      "question": "Quelle est l'activité de l'équipe SFR ?",
+      "réponse": "La réalisation des livrables PV et REC"
+    },
+    {
+      "question": "Quels sont les projets sur lesquels travaille l'équipe ?",
+      "réponse": "Projets SFR et projets UE"
+    },
+    {
+      "question": "Qui sont les membres de l'équipe SFR ?",
+      "réponse": "Maryam Akarkab, Abderhmane Darouiche, Fatimazahra Bouzakraoui, Adelphe"
+    },
+    {
+      "question": "Quelle est la description générale des tâches ?",
+      "réponse": "La première étape pour traiter un projet est de créer un ODEON. Ensuite, le projet peut être traité."
+    },
+    {
+      "question": "Qu'est-ce qu'un ODEON ?",
+      "réponse": "C'est un ordre de travail ou une autorisation d'accès aux datacenters. Il doit être créé en premier avant de pouvoir traiter un projet."
+    },
+    {
+      "question": "Quels sont les objectifs du bot ?",
+      "réponse": "Objectif du bot :\n- Comprendre le rôle de chaque membre\n- Connaître les règles d’ingénierie\n- Être autonome"
+    },
+    {
+      "question": "Quels sont les livrables SFR ?",
+      "réponse": "Livrables SFR :\n- PV\n- REC"
+    },
+    {
+      "question": "Quels sont les livrables UE ?",
+      "réponse": "Livrables UE :\n- PV UE uniquement"
+    },
+    {
+      "question": "Quelles sont les adresses mail ?",
+      "réponse": "Adresses mail des membres :\nMaxim : maximet@maneoreseaux.com\nAnass : anassj@maneoreseaux.com\nAbderhmane : abderrahmand-etudes@maneoreseaux.com\nMaryam : maryama@maneoreseaux.com\nRetour terrain : ca.sfr@maneoreseaux.com"
+    },
+    {
+      "question": "Quelles sont les étapes du projet SFR ?",
+      "réponse": "Étapes projet SFR :\n- Télécharger l'attribution Axis (Axis SFR)\n- Télécharger le retour terrain des techniciens depuis l’adresse mail ca.sfr\n- Vérifier les éléments : sont-ils cohérents ?\n- Si incohérents, envoyer la demande dans le groupe\n- Si les bons éléments sont reçus, traiter le projet, sinon, le marquer bloqué dans notre suivi"
+    },
+    {
+      "question": "Quelles sont les types de demandes ?",
+      "réponse": "Demandes :\n- Types de demandes : demande d'accès et demande d'accompagnement\n- Remplir la trame Odéon avec date, type réseau, site, salles, n° EBS, adresses mail...\n- Cliquer sur 'Contrôle de la trame' et importer dans l’application Odéon"
+    },
+    {
+      "question": "Qu'est-ce que ça veut dire SFR ?",
+      "réponse": "SFR, c'est un opérateur de télécommunication français."
+    },
+    {
+      "question": "Combien de régions a-t-on ?",
+      "réponse": "On travaille sur les régions suivantes :\n- IDF (Île-de-France)\n- NORD\n- EST\n- Centre EST\n- SUD EST"
+    },
+    {
+      "question": "Quel est le numéro de téléphone de Maxim ?",
+      "réponse": "Numéro de téléphone de Maxim : 07 71 93 91 95"
+    },
+    {
+      "question": "Quel est le numéro de téléphone de Hichem ?",
+      "réponse": "Numéro de téléphone de Hichem : 06 36 14 84 94"
+    },
+    {
+      "question": "Quel est le numéro de téléphone du technicien RIGHI ?",
+      "réponse": "07 66 49 17 44"
+    },
+    {
+      "question": "Quel est le numéro de téléphone du technicien Kunaseelan ?",
+      "réponse": "07 74 59 52 09"
+    },
+    {
+      "question": "Quel est le numéro de téléphone du technicien Betran ?",
+      "réponse": "07 68 56 00 70"
+    },
+    {
+      "question": "Quel est le numéro de téléphone du technicien Mathias ?",
+      "réponse": "06 33 71 52 05"
+    },
+    {
+      "question": "Quel est le numéro de téléphone du technicien Kamel ?",
+      "réponse": "06 65 28 72 44"
+    },
+    {
+      "question": "Quel est le numéro de téléphone du technicien Youssef ?",
+      "réponse": "06 87 90 71 75"
+    },
+    {
+      "question": "Quel est le numéro de téléphone du technicien Cédric ?",
+      "réponse": "06 22 69 74 92"
+    },
+    {
+      "question": "Quel est le numéro de téléphone du technicien Schmitt ?",
+      "réponse": "06 09 03 33 07"
+    },
+    {
+      "question": "Quel est le numéro de téléphone du technicien Rafik ?",
+      "réponse": "07 69 09 33 93"
+    },
+    {
+      "question": "Quel est le numéro de téléphone du technicien Diallo ?",
+      "réponse": "07 52 21 33 99"
+    },
+    {
+      "question": "Quel est le numéro de téléphone du technicien Rahal Chebili ?",
+      "réponse": "07 23 93 88 39 (Badge 87027 / 42101355112-1:B)"
+    },
+    {
+      "question": "Quel est le numéro de téléphone du technicien Zoher ?",
+      "réponse": "06 00 75 53 33"
+    },
+    {
+      "question": "Quel est le numéro de téléphone du technicien Leuth Baccam ?",
+      "réponse": "06 70 33 66 19"
+    },
+    {
+      "question": "Quel est le numéro de téléphone du technicien Karim Ouad ?",
+      "réponse": "06 06 33 55 36"
+    },
+    {
+      "question": "Quel est le numéro de téléphone du technicien Andy ?",
+      "réponse": "06 56  03 47 09"
+    },
+    {
+      "question": "Quel est le numéro de téléphone du technicien Karim ?",
+      "réponse": "06 09 22 55 33"
+    },
+    {
+      "question": "Quelles sont les informations de connexion Odéon UltraEdge ?",
+      "réponse": "Login : E0096459\nMot de passe : NkSP+0P@O9"
+    },
+    {
+      "question": "Quelles sont les informations de connexion Odéon SFR ?",
+      "réponse": "Login : E0030323\nMot de passe : Akwakwak_0123"
+    },
+    {
+      "question": "Quelles sont les informations du mail ca.sfr ?",
+      "réponse": "Adresse mail : ca.sfr@maneorseaux.com\nMot de passe : CaSfr"
+    },
+    {
+      "question": "Quels sont les comptes Odéon de Julien ?",
+      "réponse": "SFR : login E011074 | mot de passe : M4ZV-BqE_C\nU : login E011266 | mot de passe : 47HCYX@"
+    },
+    {
+      "question": "Quelles sont les informations d'accès Axis UE ?",
+      "réponse": "Login : E00964\nMot de passe : NkSP+0P@"
+    },
+    {
+      "question": "Quel est le lien d'accès à la plateforme Axis ?",
+      "réponse": "https://sfr.one2team.com/servlet/nocache/"
+    },
+    {
+      "question": "Quelles sont les informations Axis SFR ?",
+      "réponse": "Login : E0049451\nMot de passe : R0T8s"
+    },
+    {
+      "question": "Quel est le mail du chef de projet Sud-Est ?",
+      "réponse": "rod.doham@sfr.com"
+    },
+    {
+      "question": "Qui est le chef de projet Sud-Est ?",
+      "réponse": "Le chef de projet Sud-Est est Mouctar."
+    },
+    {
+      "question": "Comment faire une demande d'accompagnement pour un Odéon UE ?",
+      "réponse": "Envoyer un mail à super@ultraedge.fr. Dans l’Odéon, cocher 'permis feu' et 'accompagnement'."
+    },
+    {
+      "question": "Quelle est la durée maximale pour une demande d'accompagnement ?",
+      "réponse": "On fait une demande d’accompagnement pour 1 jour seulement car cela coûte trop cher au-delà."
+    },
+    {
+      "question": "Quel est le délai minimal pour envoyer une demande d'accompagnement ?",
+      "réponse": "Il faut envoyer la demande au moins 74 heures avant la date de planification de l’Odéon."
+    },
+    {
+      "question": "Quel est le délai de création d'Odéon pour le site PERPIGNAN - BB ?",
+      "réponse": "Il faut respecter un délai de 72 heures entre la création de l’Odéon et la date de planification."
+    }
+  ]
+}
