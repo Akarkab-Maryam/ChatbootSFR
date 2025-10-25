@@ -30,13 +30,7 @@ l’intelligence artificielle
 ➢ Optimiser les ressources internes en réduisant le temps consacré par les conseillers aux questions répétitives et
 basiques, leur permettant de se concentrer sur des tâches à plus forte valeur ajoutée
 
-![Uploading Commande.PNG…]()
-
-
-![Uploading description.PNG…]()
-
-
-![Uploading contact.PNG…]()
+<img width="690" height="556" alt="contact" src="https://github.com/user-attachments/assets/a83f7a40-56f8-4288-bdc4-b7ed32036f92" />
 
 
 
