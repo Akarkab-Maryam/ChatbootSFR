@@ -21,19 +21,23 @@ Les résultats obtenus montrent que le chatbot est capable de fournir une assist
 garantissant une disponibilité continue, ce qui constitue un avantage considérable par rapport à un support humain
 limité par des horaires ou des contraintes de charge. Ainsi, ce projet contribue directement à :
 
-➢ Améliorer l’expérience client grâce à une interaction simple, rapide et personnalisée
+➢ Améliorer l’expérience client grâce à une interaction simple, rapide et personnalisé
+
 ➢ Renforcer l’image de modernité et d’innovation de l’entreprise en mettant en avant des solutions basées sur
-l’intelligence artificielle.
+l’intelligence artificielle
+
+
+➢ Optimiser les ressources internes en réduisant le temps consacré par les conseillers aux questions répétitives et
+basiques, leur permettant de se concentrer sur des tâches à plus forte valeur ajoutée
+
+![Uploading Commande.PNG…]()
+
 
 ![Uploading description.PNG…]()
 
-<img width="690" height="556" alt="contact" src="https://github.com/user-attachments/assets/189154da-ee0b-46a4-a68d-326dae56e852" />
 
 ![Uploading contact.PNG…]()
 
 
 
 
-
-➢ Optimiser les ressources internes en réduisant le temps consacré par les conseillers aux questions répétitives et
-basiques, leur permettant de se concentrer sur des tâches à plus forte valeur ajoutée
